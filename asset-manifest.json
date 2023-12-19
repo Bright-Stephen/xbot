@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xbot/static/css/main.c29f060e.css",
+    "main.js": "/xbot/static/js/main.d5963117.js",
+    "index.html": "/xbot/index.html",
+    "main.c29f060e.css.map": "/xbot/static/css/main.c29f060e.css.map",
+    "main.d5963117.js.map": "/xbot/static/js/main.d5963117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c29f060e.css",
+    "static/js/main.d5963117.js"
+  ]
+}
