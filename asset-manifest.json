@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/xbot/static/css/main.bceccc96.css",
-    "main.js": "/xbot/static/js/main.02ddfdc2.js",
+    "main.css": "/xbot/static/css/main.1c78ef7d.css",
+    "main.js": "/xbot/static/js/main.f3e6d55b.js",
     "index.html": "/xbot/index.html",
-    "main.bceccc96.css.map": "/xbot/static/css/main.bceccc96.css.map",
-    "main.02ddfdc2.js.map": "/xbot/static/js/main.02ddfdc2.js.map"
+    "main.1c78ef7d.css.map": "/xbot/static/css/main.1c78ef7d.css.map",
+    "main.f3e6d55b.js.map": "/xbot/static/js/main.f3e6d55b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bceccc96.css",
-    "static/js/main.02ddfdc2.js"
+    "static/css/main.1c78ef7d.css",
+    "static/js/main.f3e6d55b.js"
   ]
 }
