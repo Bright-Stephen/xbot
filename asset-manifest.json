@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/xbot/static/css/main.1c78ef7d.css",
-    "main.js": "/xbot/static/js/main.f3e6d55b.js",
-    "index.html": "/xbot/index.html",
-    "main.1c78ef7d.css.map": "/xbot/static/css/main.1c78ef7d.css.map",
-    "main.f3e6d55b.js.map": "/xbot/static/js/main.f3e6d55b.js.map"
+    "main.css": "/quiz-vital/static/css/main.1c78ef7d.css",
+    "main.js": "/quiz-vital/static/js/main.f3e6d55b.js",
+    "index.html": "/quiz-vital/index.html",
+    "main.1c78ef7d.css.map": "/quiz-vital/static/css/main.1c78ef7d.css.map",
+    "main.f3e6d55b.js.map": "/quiz-vital/static/js/main.f3e6d55b.js.map"
   },
   "entrypoints": [
     "static/css/main.1c78ef7d.css",
